@@ -35,12 +35,12 @@ class Divyanshi:
         print("Thanks for stopping by! Let's build something meaningful with data. 🚀")
 ```
 
-- 🎓 Pursuing **MCA with specialization in Data Science & AI** at BBD University
-- 🏅 Completed **BCA** from the same institution with **8+ CGPA**
-- 🎯 Actively targeting roles in **Data Engineering, Data Science, and ML Engineering**
-- 🌱 Currently deepening skills in **end-to-end ML pipelines, cloud data tools & MLOps**
-- 💡 Passionate about transforming messy data into clean, actionable intelligence
-- 📍 Based in **Lucknow, India** — open to remote & relocation
+- Pursuing **MCA with specialization in Data Science & AI** at BBD University
+- Completed **BCA** from the same institution with **8+ CGPA**
+- Actively targeting roles in **Data Engineering, Data Science, and ML Engineering**
+- Currently deepening skills in **end-to-end ML pipelines, cloud data tools & MLOps**
+- Passionate about transforming messy data into clean, actionable intelligence
+- Based in **Lucknow, India** — open to remote & relocation
 
 ---
 
@@ -73,32 +73,6 @@ class Divyanshi:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=divyanshi-rastogi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshi-rastogi&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshi-rastogi&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-```
-📦 MLOps & Model Deployment
-📦 Apache Kafka & Spark Streaming
-📦 dbt (data build tool) for analytics engineering
-📦 Deep Learning with TensorFlow / PyTorch
-```
 
 ---
 
