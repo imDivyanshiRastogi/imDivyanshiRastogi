@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Profile Views & Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshi-rastogi)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshir/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshir.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-20B2AA?style=for-the-badge&logo=vercel&logoColor=white)](#)
 ![Profile Views](https://komarev.com/ghpvc/?username=divyanshi-rastogi&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 ```python
 class Divyanshi:
@@ -44,14 +44,14 @@ class Divyanshi:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🐍 Languages & Querying
+### Languages & Querying
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 📊 Data Science & ML
+### Data Science & ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -59,37 +59,24 @@ class Divyanshi:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3E7CB1?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Databases & Data Tools
+### Databases & Data Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🖥️ IDEs & Notebooks
+### IDEs & Notebooks
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
-
-> 🔧 *Projects in progress — will be pinned here soon. Check back shortly!*
-
-| # | Project | Description | Tech |
-|---|---------|-------------|------|
-| 01 | 🔜 Coming Soon | End-to-end Data Pipeline | Python, SQL, Airflow |
-| 02 | 🔜 Coming Soon | ML Classification Model | Scikit-Learn, Pandas |
-| 03 | 🔜 Coming Soon | EDA & Visualization | Matplotlib, Seaborn |
-
----
-
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -101,17 +88,6 @@ class Divyanshi:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshi-rastogi&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## 🎯 2025 Goals
-
-- [x] Complete BCA with **8+ CGPA**
-- [ ] Master end-to-end ML pipeline development
-- [ ] Build & deploy **3+ portfolio projects**
-- [ ] Earn a cloud certification (AWS / GCP)
-- [ ] Land my first **Data / ML role**
-- [ ] Contribute to an **open-source** data project
 
 ---
 
@@ -132,8 +108,8 @@ class Divyanshi:
 
 I'm always open to collaborating on data projects, discussing career opportunities, or just geeking out over data!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyanshi%20Rastogi-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/divyanshi-rastogi)
-[![Gmail](https://img.shields.io/badge/Gmail-youremail%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyanshi%20Rastogi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshir/)
+[![Gmail](https://img.shields.io/badge/Gmail-divyanshir.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshir.work@gmail.com)
 
 </div>
 
