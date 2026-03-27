@@ -13,7 +13,7 @@
 <!-- Profile Views & Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshir/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshir.work@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-20B2AA?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-20B2AA?style=for-the-badge&logo=vercel&logoColor=white)](http://divyanshirastogi.me/)
 ![Profile Views](https://komarev.com/ghpvc/?username=divyanshi-rastogi&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
 
 </div>
